@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Chandraprabhudev K
 tagline: Digital Marketer & Web Developer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/Hero-image.png
 cta:
   ctaText: Know more
   ctaLink: /about
