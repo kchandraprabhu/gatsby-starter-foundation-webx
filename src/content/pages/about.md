@@ -105,17 +105,17 @@ My consulting services are flexible and can be tailored to whatever you need. Fo
 
 ## Services
 
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#ccc;">
-    <h2>Column 3</h2>
-    <p>Some text..</p>
-  </div>
+<div class="cards">
+  <div class="card">ONE</div>
+  <div class="card">TWO</div>
+  <div class="card">THREE</div>
+  <div class="card">FOUR</div>
+  <div class="card">FIVE</div>
+  <div class="card">SIX</div>
+  <div class="card">SEVEN</div>
+  <div class="card">EIGHT</div>
+  <div class="card">NINE</div>
+  <div class="card">TEN</div>
+  <div class="card">ELEVEN</div>
+  <div class="card">TWELVE</div>
 </div>
