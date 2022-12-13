@@ -1,12 +1,13 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Web-X Marketings",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "We love to provide Digital Marketing services to businesses, and we’re here to help you with everything from SEO and PPC to social media marketing. ❤ by chandraprabhudev",
+    "siteUrl": "https://webxmarketings.com",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@KCPrabhudev"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-5051FZJZS6",
+  "gtm": "GTM-K7DLSKN"
 }
