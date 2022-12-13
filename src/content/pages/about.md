@@ -1,51 +1,106 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About Chandraprabhudev
 ---
+I'm always passionate about **Digital Marketing**. After working in a few different digital marketing roles, I have decided to start own marketing agency. I have named the company Web-X Marketing, and set out to help startups grow their businesses.
 
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+Web-X Marketing has been a success, and able to help many startups reach their goals. I have a team of talented and experienced digital marketers who are dedicated to helping their clients succeed.
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+Web-X Marketing is a reliable and trustworthy marketing agency, and we will continue to help startups grow their businesses.
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** _My folks were always on me to groom myself and wear underpants._ What am I, the pope?
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+# Marketing Consultancy
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+If you're struggling to get your marketing back on track, I may be able to help. As a marketing consultant, I offer hourly, half-day, or day rates to come in and provide expert guidance based on my years of experience. I've worked with businesses of all shapes and sizes, so I'm familiar with the challenges that Freelancers, small businesses, professional service firms, and corporations often face. 
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+My consulting services are flexible and can be tailored to whatever you need. For example, I could provide a one-hour brainstorming session over Zoom, Skype, or Whatsapp. Or, if you're working on a new campaign, you might need a half-day session in your office with your team.
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+## Experience
 
-- You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-- And when we woke up, we had these bodies.
-- Spare me your space age technobabble, Attila the Hun!
+### Search Engine Optimization Specialist, Atmana Inc. 
+                                                          Aug 2021 - Nov - 2022
+1. Collected and analyzed data to improve strategies.
+2. Requirement gathering for dashboarding projects
+3. Lead the team of 4 members.
+4. Develop new ideas/techniques to showcase team value.
+5. Review setup in Funnel.IO and sign off from a media standpoint
+6. Develop complex Reports and Dashboards using Funnel.io.
+7. Run the campaigns on Campaign manager 360(DCM) for conversion and lead generation
+8. Extracting Data from Adservers.
+9. Collaborate with editorial and marketing teams to drive SEO in content creation and
+programming.
+10. Integrated marketing plans with brand campaigns to drive demand for the brand.
+11. Optimizing copy and landing pages for search engine marketing purposes.
+12. Creating detailed reports and analysis on client website demographic and statistical data using
+Google Analytics.
+13. Support for data collection, preparing reports, exercising push back and realigning delivery
+expectations with multiple stakeholders
+14. Mastering current market trends and algorithm updates of major search engines.
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+### Senior Associate digital marketer, Solid Systems Global 
+                                                            Jul 2020 - Jun 2021
+1. Managed marketing campaigns to increase brand awareness and drive website traffic. 
+2. Lead the team of 5 content writers and 1 web developer. 
+3. Drove email acquisition and marketing campaigns in support of key business initiatives in account management, new business development, and customer experience. 
+4. Led client meetings to identify project needs and technical requirements and determine the right course of action to increase client success. 
+5. Manage marketing calendar and publish new content in conjunction with new product and service releases.
+6. Measure and report on the performance of all digital marketing campaigns and evaluate against ROI and KPIs.
+7. Develop highly successful digital strategies across multiple platforms to increase customer engagement. 
+8. Increased customer acquisition and ROI through continuous optimization, testing and experimentation with ad creations, bidding strategies, targeting and placements. 
+9. Identified growth opportunities and developed initiatives to increase market share. 
+10. Monitored and optimized advertising campaigns with Google, Facebook and Bing. 
+11. Evaluated monthly performance statistics and used data to inform future strategies. 
+12. Developed marketing content such as blogs, promotional materials, and social media ads. 
+### SEO ANALYST, Posiflex Technology (India) Pvt. Ltd. 
+                                                            Jul 2019 - Jun 2020
+1. Recommended changes to website architecture, content, and linking to improve SEO for target keywords. 
+2. Lead the team of 3 content writer, 2 Graphic designer and 1 web analyst. 
+3. Managed SEO campaign spending, estimated monthly costs, and reconciled variances to maximize budget. 
+4. Analyzed SEO campaign objectives and presented results to Marketing Director. 
+5. Incorporated XML sitemaps, robots.txt files and 301 redirects to facilitate spidering, crawling and indexing by search engines.
+6. Collaborated with a team to investigate critical SEO-related issues and find effective solutions. 
+7. Performed testing, collected and analyzed resulting data, and identified trends and insights to maximize ROI in paid search campaigns. 
+8. Researched and analyzed competitor websites and advertising links to gain insights into new strategies. 
+9. Tracked, reported and analyzed website analytics to drive strategy and improve user experience. 
+10. Maintained Google and Bing Webmaster Tools accounts and monitored crawling and indexing issues. 
+11. Ongoing keyword discovery, expansion and optimization to increase organic search presence and generate relevant website traffic. 
+12. Planned, executed and analyzed PPC initiatives and campaigns for clients to increase sales, generate leads and drive brand awareness. 
+### Data Analyst & Digital Marketer, Cityinfo Services Pvt. Ltd. 
+                                                            Mar 2018 - May 2019
+1. Conducted strategies to increase traffic, SEO, content distribution, email marketing, and trackbacks. 
+2. Lead the team of 10 Data Entry operator, 2 Content writer and 1 web Developer. 
+3. Created solution-based execution plans to achieve business goals based on Google Analytics and internal reporting data 
+4. Guided staff on industry best practices and task-specific marketing tasks to achieve high- quality results 
+5. Leverage MailChimp and AWeber to execute email campaigns and monitor performance 
+6. Optimize website presence by analyzing search engine patterns to drive online placement of keywords or other content 
+7. Create and distribute monthly SEO reports to inform clients of website traffic, goals and KPIs 
+8. Implement weekly promotional and editorial strategies to improve customer engagement across multiple channels 
+9. Develop and execute multiple print and digital marketing efforts to improve brand visibility 
+10. Plan and execute web, SEO, database marketing and social media advertising campaigns
+11. Developed content marketing strategies based on client business objectives, existing content, and selected performance metrics 
+12. Oversaw the preparation of marketing copy, images, videos, emails, and other collateral materials. 
+### Content Management Executive, Brady Corporation 
+                                                            Apr 2017 - Feb 2018 
+1. Utilized a content management system to analyze user engagement and website traffic data
+2. Lead the team of 5 content writer and curators to create product content and update the content on websites. 
+3. Managed content distribution to online channels and social media platforms.
+4. User behavior analysis using Google Analytics. 
+5. Generating report on Google DataStudio with the help of supermetrics / funnel.io. 
+6. Suggesting content update’s on the basis of user behaiour to team. 
+7. Maintained content marketing calendar to schedule creation and delivery dates. 
+8. Directed website content by gathering information and integrating data from other departments. 
+9. Collaborate with marketing and design teams to develop and plan website content, layout and style. 
+10. Approved, reviewed, and edited content that goes on the website. 
+11. Utilized analytics and website metrics to identify opportunities for improvement. 
+### Senior DTP operator, BYJU'S 
+                                                            Jul 2015 - Oct 2016
+1. Handle 10-member team to create content on a specific topic 
+2. Converting the created content into the language format LATEX 
+3. Creating images for specific topics using Adobe Illustrator, Photoshop 
+4. Submitting syllabi and questionnaires to students according to the schedule
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+## Services
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
-
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
-
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
-
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
-
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
-
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
-
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
