@@ -9,4 +9,6 @@ cta:
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I’m a  digital marketer web designer, and web developer. I take pride in my work and make sure that it is of the highest quality. 
+
+I have over 6 years of experience working as a web developer and marketing professional. I have worked with a wide variety of clients in many different industries, including: manufacturing, real estate, financial services, healthcare, education and more.  
